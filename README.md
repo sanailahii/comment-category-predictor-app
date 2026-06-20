@@ -51,8 +51,10 @@ For deployment, default values are used for numerical features to simplify user 
 * TF-IDF
 * Logistic Regression
 
-## Model Training Repository
+## Live Application
+https://comment-category-predictor-app-si.streamlit.app/
 
+## Model Development Repository
 The complete training pipeline, EDA, and experiments are available in:
 https://github.com/sanailahii/comment-category-predictor-nlp
 
