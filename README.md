@@ -54,7 +54,7 @@ For deployment, default values are used for numerical features to simplify user 
 ## Model Training Repository
 
 The complete training pipeline, EDA, and experiments are available in:
-https://github.com/sanailahii/comment-category-prediction-nlp
+https://github.com/sanailahii/comment-category-predictor-nlp
 
 ## Deployment
 
